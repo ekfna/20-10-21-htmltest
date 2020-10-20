@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+html, body {background: #fdcf47;antialiased;
+  display: flex;
+  justify-content: center;
+  align-items: center;text-align: center;}
+html, body, header,footer, nav, div, ul, li, dl, dt, dd, p, span, figure, a {margin: 0; padding:0;}
+h1,h2,h3,h4 {font-weight:Semi-bold 700;}
